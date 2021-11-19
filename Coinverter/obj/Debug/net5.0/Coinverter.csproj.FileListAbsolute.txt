@@ -14,7 +14,6 @@ C:\Personal project\Coinverter\Coinverter\obj\Debug\net5.0\Coinverter.AssemblyIn
 C:\Personal project\Coinverter\Coinverter\obj\Debug\net5.0\Coinverter.csproj.CoreCompileInputs.cache
 C:\Personal project\Coinverter\Coinverter\obj\Debug\net5.0\Coinverter.MvcApplicationPartsAssemblyInfo.cache
 C:\Personal project\Coinverter\Coinverter\obj\Debug\net5.0\staticwebassets\Coinverter.StaticWebAssets.Manifest.cache
-C:\Personal project\Coinverter\Coinverter\obj\Debug\net5.0\staticwebassets\Coinverter.StaticWebAssets.xml
 C:\Personal project\Coinverter\Coinverter\obj\Debug\net5.0\scopedcss\bundle\Coinverter.styles.css
 C:\Personal project\Coinverter\Coinverter\obj\Debug\net5.0\Coinverter.RazorTargetAssemblyInfo.cache
 C:\Personal project\Coinverter\Coinverter\obj\Debug\net5.0\Coinverter.dll
