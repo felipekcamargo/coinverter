@@ -1,25 +1,3 @@
-C:/Personal project/Coinverter/Coinverter/bin/Debug/net5.0/appsettings.Development.json
-C:/Personal project/Coinverter/Coinverter/bin/Debug/net5.0/appsettings.json
-C:/Personal project/Coinverter/Coinverter/bin/Debug/net5.0/Coinverter.exe
-C:/Personal project/Coinverter/Coinverter/bin/Debug/net5.0/Coinverter.deps.json
-C:/Personal project/Coinverter/Coinverter/bin/Debug/net5.0/Coinverter.runtimeconfig.json
-C:/Personal project/Coinverter/Coinverter/bin/Debug/net5.0/Coinverter.runtimeconfig.dev.json
-C:/Personal project/Coinverter/Coinverter/bin/Debug/net5.0/Coinverter.dll
-C:/Personal project/Coinverter/Coinverter/bin/Debug/net5.0/ref/Coinverter.dll
-C:/Personal project/Coinverter/Coinverter/bin/Debug/net5.0/Coinverter.pdb
-C:/Personal project/Coinverter/Coinverter/obj/Debug/net5.0/Coinverter.csproj.AssemblyReference.cache
-C:/Personal project/Coinverter/Coinverter/obj/Debug/net5.0/Coinverter.GeneratedMSBuildEditorConfig.editorconfig
-C:/Personal project/Coinverter/Coinverter/obj/Debug/net5.0/Coinverter.AssemblyInfoInputs.cache
-C:/Personal project/Coinverter/Coinverter/obj/Debug/net5.0/Coinverter.AssemblyInfo.cs
-C:/Personal project/Coinverter/Coinverter/obj/Debug/net5.0/Coinverter.csproj.CoreCompileInputs.cache
-C:/Personal project/Coinverter/Coinverter/obj/Debug/net5.0/Coinverter.MvcApplicationPartsAssemblyInfo.cache
-C:/Personal project/Coinverter/Coinverter/obj/Debug/net5.0/staticwebassets/Coinverter.StaticWebAssets.Manifest.cache
-C:/Personal project/Coinverter/Coinverter/obj/Debug/net5.0/scopedcss/bundle/Coinverter.styles.css
-C:/Personal project/Coinverter/Coinverter/obj/Debug/net5.0/Coinverter.RazorTargetAssemblyInfo.cache
-C:/Personal project/Coinverter/Coinverter/obj/Debug/net5.0/Coinverter.dll
-C:/Personal project/Coinverter/Coinverter/obj/Debug/net5.0/ref/Coinverter.dll
-C:/Personal project/Coinverter/Coinverter/obj/Debug/net5.0/Coinverter.pdb
-C:/Personal project/Coinverter/Coinverter/obj/Debug/net5.0/Coinverter.genruntimeconfig.cache
 /home/felipe/freela/coinverter/Coinverter/bin/Debug/net5.0/appsettings.Development.json
 /home/felipe/freela/coinverter/Coinverter/bin/Debug/net5.0/appsettings.json
 /home/felipe/freela/coinverter/Coinverter/bin/Debug/net5.0/Coinverter
@@ -42,3 +20,24 @@ C:/Personal project/Coinverter/Coinverter/obj/Debug/net5.0/Coinverter.genruntime
 /home/felipe/freela/coinverter/Coinverter/obj/Debug/net5.0/ref/Coinverter.dll
 /home/felipe/freela/coinverter/Coinverter/obj/Debug/net5.0/Coinverter.pdb
 /home/felipe/freela/coinverter/Coinverter/obj/Debug/net5.0/Coinverter.genruntimeconfig.cache
+C:\Personal project\Coinverter\Coinverter\bin\Debug\net5.0\appsettings.Development.json
+C:\Personal project\Coinverter\Coinverter\bin\Debug\net5.0\appsettings.json
+C:\Personal project\Coinverter\Coinverter\bin\Debug\net5.0\Coinverter.exe
+C:\Personal project\Coinverter\Coinverter\bin\Debug\net5.0\Coinverter.deps.json
+C:\Personal project\Coinverter\Coinverter\bin\Debug\net5.0\Coinverter.runtimeconfig.json
+C:\Personal project\Coinverter\Coinverter\bin\Debug\net5.0\Coinverter.runtimeconfig.dev.json
+C:\Personal project\Coinverter\Coinverter\bin\Debug\net5.0\Coinverter.dll
+C:\Personal project\Coinverter\Coinverter\bin\Debug\net5.0\ref\Coinverter.dll
+C:\Personal project\Coinverter\Coinverter\bin\Debug\net5.0\Coinverter.pdb
+C:\Personal project\Coinverter\Coinverter\obj\Debug\net5.0\Coinverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal project\Coinverter\Coinverter\obj\Debug\net5.0\Coinverter.AssemblyInfoInputs.cache
+C:\Personal project\Coinverter\Coinverter\obj\Debug\net5.0\Coinverter.AssemblyInfo.cs
+C:\Personal project\Coinverter\Coinverter\obj\Debug\net5.0\Coinverter.csproj.CoreCompileInputs.cache
+C:\Personal project\Coinverter\Coinverter\obj\Debug\net5.0\Coinverter.MvcApplicationPartsAssemblyInfo.cache
+C:\Personal project\Coinverter\Coinverter\obj\Debug\net5.0\scopedcss\bundle\Coinverter.styles.css
+C:\Personal project\Coinverter\Coinverter\obj\Debug\net5.0\staticwebassets\Coinverter.StaticWebAssets.Manifest.cache
+C:\Personal project\Coinverter\Coinverter\obj\Debug\net5.0\Coinverter.RazorTargetAssemblyInfo.cache
+C:\Personal project\Coinverter\Coinverter\obj\Debug\net5.0\Coinverter.dll
+C:\Personal project\Coinverter\Coinverter\obj\Debug\net5.0\ref\Coinverter.dll
+C:\Personal project\Coinverter\Coinverter\obj\Debug\net5.0\Coinverter.pdb
+C:\Personal project\Coinverter\Coinverter\obj\Debug\net5.0\Coinverter.genruntimeconfig.cache
