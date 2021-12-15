@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tPA5XO4tx+UJ2sqVFL8f4WCqNETOnlu/1WrNBgjr29zbvd6+si1G+LVuZ9beJdc/1y2OLq9tMB7I1vV8r2OiPA==",
+  "dgSpecHash": "GuvVIggV6JG5Av9R7fYvaPNS+nxRmOvqvaEtBisc2ICr9fMSu3CNeHXt+J7i6tw5V+LzyVLW6gO0m46hvC2zNw==",
   "success": true,
-  "projectFilePath": "C:\\Personal project\\Coinverter\\Coinverter\\Coinverter.csproj",
+  "projectFilePath": "/home/felipe/freela/coinverter/Coinverter/Coinverter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
